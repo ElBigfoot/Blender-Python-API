@@ -3,7 +3,7 @@ Traducción y ejerccicios del libro "The Blender Pyhton API" por Chris Conlan
 
 Add
 
-- What is here
+- What is here...
 
 - What problem...
 
@@ -24,3 +24,13 @@ Generación de modelos detallados de edificios con especificaiónes arquitectoni
 Producción de activos via algoritmos fractales.
 
 Uso de primitivas
+
+--- Interfaz de Blender 
+
+--- Modulo bpy 
+
+--- Modulo bmesh
+
+--- Topicos de Modelaje y Rendering
+
+---
