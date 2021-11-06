@@ -1,6 +1,14 @@
 # Blender-Python-API
 Traducción y ejerccicios del libro "The Blender Pyhton API" por Chris Conlan
 
+Add
+
+- What is here
+
+- What problem...
+
+- What's next...
+
 Modelaje de precision en 3D y desarrollo de Add-ons.
 
 La creación de modelos precisos de data-driven, asi como la creación  de las herramientas
